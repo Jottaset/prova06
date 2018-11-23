@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/obj/Debug/netcoreapp2.1/prova06_sistCliente.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/obj/Debug/netcoreapp2.1/prova06_sistCliente.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/obj/Debug/netcoreapp2.1/prova06_sistCliente.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/obj/Debug/netcoreapp2.1/prova06_sistCliente.AssemblyInfo.cs
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/bin/Debug/netcoreapp2.1/prova06_sistCliente.deps.json
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/bin/Debug/netcoreapp2.1/prova06_sistCliente.runtimeconfig.json
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/bin/Debug/netcoreapp2.1/prova06_sistCliente.runtimeconfig.dev.json
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/bin/Debug/netcoreapp2.1/prova06_sistCliente.dll
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/bin/Debug/netcoreapp2.1/prova06_sistCliente.pdb
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/obj/Debug/netcoreapp2.1/prova06_sistCliente.dll
+/Users/aluno/Projects/prova06_sistCliente/prova06_sistCliente/obj/Debug/netcoreapp2.1/prova06_sistCliente.pdb

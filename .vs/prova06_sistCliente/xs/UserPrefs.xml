@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B34A6555-D95C-4DA0-AA2D-2BAC2933D6F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova06_sistCliente/Cliente.cs">
+    <Files>
+      <File FileName="prova06_sistCliente/Program.cs" Line="8" Column="10" />
+      <File FileName="prova06_sistCliente/Cliente.cs" Line="15" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.prova06__sistCliente PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
